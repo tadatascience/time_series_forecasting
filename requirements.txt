@@ -19,3 +19,4 @@ statsmodels
 tensorflow
 sklearn
 tqdm
+folium
