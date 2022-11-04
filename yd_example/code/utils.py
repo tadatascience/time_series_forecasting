@@ -267,7 +267,7 @@ def plot_verif_component(verif, component='rain', year=2021):
     return f
 
 
-def plot_joint_plot(verif, x='yhat', y='y', title=None, fpath = '../figures/paper', fname = None): 
+def plot_joint_plot(verif, x='yhat', y='y', title=None, fpath = '', fname = None): 
     """
     
     Parameters
